@@ -5,10 +5,14 @@ navbar:
   right:
     - text: "About"
       href: about.html
+    - text: "Plotly"
+      href: plotly.html
+    - text: "Dashboard"
+      href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<murrelp@gmail.com>
     - icon: fa-github fa-lg
       href: http://github.com/bst-p8105/
 output:
   html_document:
-    theme: superhero
+    theme: flatly
